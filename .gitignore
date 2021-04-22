@@ -6,6 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
+# APIs
+Genesis_API.py
+Plotly_API.py
+Twitter_API.py
+
+# large files
+*.zip
+Python_Basics_Challenge.ipynb
+
 # Distribution / packaging
 .Python
 build/
