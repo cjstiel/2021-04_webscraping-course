@@ -12,8 +12,7 @@ Plotly_API.py
 Twitter_API.py
 
 # large files
-Day1/*.zip
-Day1/Python_Basics_Challenge.ipynb
+Day 1/*.zip
 
 # Distribution / packaging
 .Python
