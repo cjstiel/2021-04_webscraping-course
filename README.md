@@ -1,9 +1,7 @@
 
-# Webscraping Course with Python | Uni Potsdam April 2021
--------------------------------------------------------
-place: Uni Potsdam, online
+# Webscraping Course with Python | University of Potsdam
 
-date: April 14 - 16, 2021
+date: April 14 - 16, 2021 (online)
 
 instructor: Gerome Wolf [(@gerwolf)](https://github.com/gerwolf), LMU Munich
 
